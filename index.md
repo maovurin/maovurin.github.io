@@ -11,13 +11,14 @@ Abstract: _We develop a sparse and outlier-insensitive method for one-dimensiona
 - **Image Denoising via patch based L1-PCA**
 Abstract: _Principal component analysis (PCA) has already gained popularity in undercomplete dictionaries with sparse representation techniques, which is widely used in patch-based image denoising. It separates the noise from the ground truth by projecting the noisy image onto some orthogonal basis. However, the basis can be distorted if there are outliers in the data. We develop a novel image denoising framework that produces a one-dimensional dictionary based on the $L_1$-norm. The method is insensitive to outlier observations by formulating procedures as optimization problems seeking the $L_1$-norm best-fit line. In addition to reduced outlier sensitivity, the new procedure can be implemented in a parallel framework. The proposed method generates results at competitive levels in terms of both peak signal-to-noise ratio and visual fidelity._
 
--**Kernelize L1-PCA**
+- **Kernelize L1-PCA**
 
 ### Applications
 
 - **Background Subtraction** [Videos](https://youtu.be/XhPIsBBgwrM)
 - **Image Denoising** [Image](/image/Denoise.jpeg)
 
-```
+
+
 
  
