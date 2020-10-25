@@ -1,8 +1,7 @@
-## About Me
-I’m a PhD candidate in Department of Statistics and Operation Research at the Virginia Commonwealth University, Richmond. My dissertation involves extensions to an L1-norm Best-fit subspace algorithm. My main research interest is data science using linear programming, convex programming, statistics, distributed computing. I aim to understand the foundations of such models in extracting interpret able knowledge and generalizing to new data. I am currently working on computer vision, Low Rank Approximation and kernels methods. I focus on both the algorithmic side of linear programming and their applications specifically in subspace learning.
+## Biography
+I’m a PhD candidate in Department of Statistics and Operation Research at the Virginia Commonwealth University, Richmond. My dissertation involves extensions to an L1-norm Best-fit subspace algorithm. My main research interest is data science using linear programming, convex programming, statistics, distributed computing. I aim to understand the foundations of such models in extracting interpret able knowledge and generalizing to new data. I am currently working on computer vision, Low Rank Approximation and kernels methods. I focus on both the algorithmic side of linear programming and their applications specifically in subspace learning. click here [resume](/resume.pdf) for additional information.
 
-
-### Working Papers
+### On-going work
 * **L1-norm regularized L1-norm best-fit line problem**
 Abstract: _We develop a sparse and outlier-insensitive method for one-dimensional line fitting that can be used as the basis for outlier-insensitive machine learning methods such as principal component analysis. The method is insensitive to outlier observations by formulating procedures as optimization problems seeking the $L_1$-norm best-fit line. It is also able to produce a small number of non-zero principal components with additional penalty term to take sparseness into account. Our algorithm has a worst-case time complexity of $O{(m^2n \log n)}$. Computational results demonstrate that this method can provide outlier-insensitive and sparse solutions.  The space required rarely approaches the worst-case bound._
  1. [15th INFORMS Virtual Workshop on Data Mining and Decision Analytics Paper](http://arxiv.org/abs/2010.04684)
@@ -15,7 +14,9 @@ Abstract: _We develop a sparse and outlier-insensitive method for one-dimensiona
 
 * **Kernelize L1-PCA**
 TBD
- 
+
+### Professional Memberships
+INFORMS (QSR, Optimization Society)
 
 
 
