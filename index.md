@@ -15,7 +15,7 @@ Abstract: _Principal component analysis (PCA) has already gained popularity in u
 
 ### Applications
 
-- **Background Subtraction** [Videos](https://youtu.be/XhPIsBBgwrM)
+- **Background Subtraction** [Video](/image/bs.mp4) 
 - **Image Denoising** [Image](/image/Denoise.jpeg)
 
 
