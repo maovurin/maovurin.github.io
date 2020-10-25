@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About Me
+I’m a PhD candidate in Department of Statistics and Operation Research at the Virginia Commonwealth University, Richmond. My dissertation involves extensions to an L1-norm Best-fit subspace algorithm. My main research interest is data science using linear programming, convex programming, statistics, distributed computing. I aim to understand the foundations of such models in extracting interpret able knowledge and generalizing to new data. I am currently working on computer vision, Low Rank Approximation and kernels methods. I focus on both the algorithmic side of linear programming and their applications specifically in subspace learning.
 
-You can use the [editor on GitHub](https://github.com/maovurin/maovurin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Research Projects
+- **Image Denoising via patch based L1-PCA**
+_Abstract: Principal component analysis (PCA) has already gained popularity in undercomplete dictionaries with sparse representation techniques, which is widely used in patch-based image denoising. It separates the noise from the ground truth by projecting the noisy image onto some orthogonal basis. However, the basis can be distorted if there are outliers in the data. We develop a novel image denoising framework that produces a one-dimensional dictionary based on the $L_1$-norm. The method is insensitive to outlier observations by formulating procedures as optimization problems seeking the $L_1$-norm best-fit line. In addition to reduced outlier sensitivity, the new procedure can be implemented in a parallel framework. The proposed method generates results at competitive levels in terms of both peak signal-to-noise ratio and visual fidelity._
+ 
+- **L1-norm regularized L1-norm best-fit line problem**
+_Abstract: We develop a sparse and outlier-insensitive method for one-dimensional line fitting that can be used as the basis for outlier-insensitive machine learning methods such as principal component analysis. The method is insensitive to outlier observations by formulating procedures as optimization problems seeking the $L_1$-norm best-fit line. It is also able to produce a small number of non-zero principal components with additional penalty term to take sparseness into account. Our algorithm has a worst-case time complexity of $O{(m^2n \log n)}$. Computational results demonstrate that this method can provide outlier-insensitive and sparse solutions.  The space required rarely approaches the worst-case bound._
+ 
+ 
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maovurin/maovurin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
